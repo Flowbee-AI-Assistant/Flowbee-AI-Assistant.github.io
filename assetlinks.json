@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flowbee.prodapp",
+      "sha256_cert_fingerprints": [
+        "2E:17:9D:E6:28:F7:95:45:E2:B3:31:DC:08:31:52:B2:93:36:E0:EF:14:0C:E1:C6:69:39:3B:9B:A9:6A:A9:B9"
+      ]
+    }
+  }
+]
